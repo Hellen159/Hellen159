@@ -1,4 +1,5 @@
-### Hi there 👋
+###  Olá, eu sou a Hellen!
+![Snake animation](https://github.com/GabrielRosa09/GabrielRosa09/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Hellen159/Hellen159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
