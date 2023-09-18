@@ -26,7 +26,7 @@
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ![Snake animation](https://github.com/GabrielRosa09/GabrielRosa09/blob/output/github-contribution-grid-snake.svg)
  
