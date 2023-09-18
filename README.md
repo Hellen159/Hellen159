@@ -21,13 +21,15 @@
 ## Main skills:
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ## Studying in this moment:
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-![Snake animation](https://github.com/GabrielRosa09/GabrielRosa09/blob/output/github-contribution-grid-snake.svg)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009999&height=120&section=footer"/>
